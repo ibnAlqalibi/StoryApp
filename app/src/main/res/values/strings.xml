@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="upload">Upload</string>
+    <string name="label_story">Story Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="story_img">Story Image</string>
+    <string name="heroes_name">as</string>
+    <string name="desc">Description</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="label_nama">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="title">Register</string>
+    <string name="title_login">Login</string>
+    <string name="story_image">Story Image</string>
+    <string name="name">Name</string>
+    <string name="menu_1">Add Story</string>
+    <string name="menu_2">Logout</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="empty_image_warning">Pilih gambar terlebih dahulu</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="lokasi">Share Location</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="login_btn">Login Button</string>
+</resources>
